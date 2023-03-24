@@ -19,3 +19,9 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 > HomeV2はもしかしたら開発再開します。今の所安定しているので放置。
 * MCSV-Advancements (https://github.com/MCSV-Network/MCSV-Advancements)
 * HomeV2 (https://github.com/MCSV-Network/HomeV2)
+
+***
+
+> ### MCSV-Network
+> [Discord入ってくれぇ](https://mcsvsvr.ml/discord/) | [それっぽいウェブサイト作ってます](https://mcsvsvr.ml) | [JMS](https://minecraft.jp/servers/play.mcsvsvr.ml) | [ものくらふと!](https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote)<br>
+> 2021-2023 MCSV-JE&BE - ringoXD(prita360)
