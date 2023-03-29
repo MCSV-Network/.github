@@ -11,6 +11,7 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 ここにあるレポジトリは現在も開発が進んでいます。
 * MCSV-Casino (https://github.com/MCSV-Network/MCSV-Casino)
 * MCSV-Items (**非公開** - Discordでcommits等の履歴のみ閲覧可能)
+* CompressV2 (https://github.com/MCSV-Network/CompressV2)
 * Discord-Bot (https://github.com/MCSV-Network/Discord-Bot)
 
 ## ほとんど開発されていないもの
