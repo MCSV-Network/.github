@@ -24,5 +24,5 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 ***
 
 > ### MCSV-Network
-> [Discord入ってくれぇ](https://mcsvsvr.ml/discord/) | [それっぽいウェブサイト作ってます](https://mcsvsvr.ml) | [JMS](https://minecraft.jp/servers/play.mcsvsvr.ml) | [ものくらふと!](https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote)<br>
-> 2021-2023 MCSV-JE&BE - ringoXD(prita360)
+> [Discord入ってほしいっ!](https://mcsvsvr.ml/discord/) | [ウェブサイト作ってます](https://mcsvsvr.ml) | [JMS](https://minecraft.jp/servers/play.mcsvsvr.ml) | [ものくらふと!](https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote)<br>
+> Copyright 2021-2023 MCSV-JE&BE - ringoXD(prita360) 
