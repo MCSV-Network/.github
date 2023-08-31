@@ -13,16 +13,17 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 * MCSV-Items (**非公開** - Discordでcommits等の履歴のみ閲覧可能)
 * CompressV2 (https://github.com/MCSV-Network/CompressV2)
 * HomeV3 (https://github.com/MCSV-Network/HomeV3)
-* Discord-Bot (https://github.com/MCSV-Network/Discord-Bot)
+* mPhone (https://github.com/MCSV-Network/mPhone)
 * Core (https://github.com/MCSV-Network/Core)
 
 ## ほとんど開発されていないもの
 
 たまーに更新します。めちゃくちゃ開発したくならない限り放置されます。
 * MCSV-Advancements (https://github.com/MCSV-Network/MCSV-Advancements)
-* mPhone (https://github.com/MCSV-Network/mPhone)
-* MCSV-Statistics (https://github.com/MCSV-Network/MCSV-Statistics)
 
+* MCSV-Statistics (https://github.com/MCSV-Network/MCSV-Statistics)
+* Discord-Bot (https://github.com/MCSV-Network/Discord-Bot)
+* 
 ## 二度と更新されないもの
 
 ここにあるリポジトリは二度と更新しません。
