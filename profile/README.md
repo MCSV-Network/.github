@@ -10,7 +10,7 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 
 ここにあるリポジトリは現在も開発が進んでいます。
 * MCSV-Casino (https://github.com/MCSV-Network/MCSV-Casino)
-* MCSV-Items (**非公開** - Discordでcommits等の履歴のみ閲覧可能)
+* MCSV-Items (**非公開**)
 * CompressV2 (https://github.com/MCSV-Network/CompressV2)
 * HomeV3 (https://github.com/MCSV-Network/HomeV3)
 * mPhone (https://github.com/MCSV-Network/mPhone)
@@ -23,7 +23,7 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 
 * MCSV-Statistics (https://github.com/MCSV-Network/MCSV-Statistics)
 * Discord-Bot (https://github.com/MCSV-Network/Discord-Bot)
-* 
+* Verify (**非公開**)
 ## 二度と更新されないもの
 
 ここにあるリポジトリは二度と更新しません。
