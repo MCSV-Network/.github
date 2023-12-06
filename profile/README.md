@@ -32,5 +32,5 @@ MCSV-JE&BEで開発されているレポジトリがここに作成されてい�
 ***
 
 > ### MCSV-Network
-> [Discord入ってほしいっ!](https://mcsv.life/discord/) | [ウェブサイト作ってます](https://mcsv.life) | [JMS](https://minecraft.jp/servers/connect.mcsv.life) | [ものくらふと!](https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote)<br>
-> Copyright 2021-2023 MCSV-JE&BE - ringoXD(prita360) 
+> [Discord](https://mcsv.life/discord/) | [Website](https://mcsv.life) | [JMS](https://minecraft.jp/servers/play.mcsv.life) | [ものくらふと!](https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote)<br>
+> Copyright 2021-2023 MCSV-JE&BE - ringoXD(prita360)
